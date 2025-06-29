@@ -34,4 +34,6 @@ Create a web-based version of the Beat Consistency Analyzer, migrating the funct
 - **2025年6月29日:** 初回起動時の画面崩れを修正。
 - **2025年6月29日:** ヒストグラムのビン設定をPython版と一致するように調整。
 - **2025年6月29日:** デバッグフラグとデバッグログ表示領域の連動を修正。
-- **2025年6月29日:** GitHub Pagesでの公開準備を開始。Gitのインストールと設定が必要な状況。
+- **2025年6月29日:** GitHub Pagesでの公開準備を開始。
+- **2025年6月29日:** レポジトリ: https://github.com/sebastian1820016/beat-consistency-analyzer
+- **2025年6月29日:** 公開URL   : https://sebastian1820016.github.io/beat-consistency-analyzer/
