@@ -7,3 +7,7 @@ This repository contains the web interface for the Beat Consistency Analyzer pro
 *   Real-time beat analysis
 *   Visualization of beat stability
 *   User-friendly interface
+
+## Live Demo
+
+You can access the live demo of this web interface here: [https://sebastiab1820016.github.io/beat-consistency-analyzer/](https://sebastiab1820016.github.io/beat-consistency-analyzer/)
